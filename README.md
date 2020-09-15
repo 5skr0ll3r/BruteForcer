@@ -1,5 +1,5 @@
 # BruteForcer
-Is a brute forcing script made with python3 for WordPress login pages
+Is a brute forcing program made with python3 for WordPress login pages
 
 Modules used:`os,requests,sys`
 
