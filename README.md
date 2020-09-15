@@ -1,6 +1,7 @@
 # BruteForcer
 Is a brute forcing script made with python3
-Modules used:os,requests,sys
+
+Modules used:`os,requests,sys`
 
 Usage: `python3 bruteforcer.py <url> <name_list> <pass_list>`
 
